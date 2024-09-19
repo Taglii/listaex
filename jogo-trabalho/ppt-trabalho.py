@@ -1,6 +1,4 @@
 import random
-
-
 opcoes = ['Pedra','Tesoura','Papel']
 maquina = random.choice(opcoes)
 
